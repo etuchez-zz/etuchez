@@ -35,5 +35,5 @@ then
 		cat temp2 >> resultados
 		rm temp2
 fi
-
+#Resultados
 cat resultados
